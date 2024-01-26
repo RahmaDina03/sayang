@@ -1,0 +1,2 @@
+# sayang
+repository untuk belajar
